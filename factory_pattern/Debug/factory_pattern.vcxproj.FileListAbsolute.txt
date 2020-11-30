@@ -1,0 +1,2 @@
+C:\Users\16068\source\repos\factory_pattern\Debug\factory_pattern.exe
+C:\Users\16068\source\repos\factory_pattern\Debug\factory_pattern.pdb
