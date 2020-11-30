@@ -1,0 +1,2 @@
+C:\Users\16068\source\repos\single_factory\Debug\single_factory.exe
+C:\Users\16068\source\repos\single_factory\Debug\single_factory.pdb
