@@ -1,0 +1,2 @@
+C:\Users\16068\source\repos\threadtest_condition_variable\Debug\threadtest_condition_variable.exe
+C:\Users\16068\source\repos\threadtest_condition_variable\Debug\threadtest_condition_variable.pdb
