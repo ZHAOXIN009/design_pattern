@@ -1,0 +1,2 @@
+C:\Users\16068\source\repos\decorator_pattern\Debug\decorator_pattern.exe
+C:\Users\16068\source\repos\decorator_pattern\Debug\decorator_pattern.pdb

@@ -1,0 +1,2 @@
+C:\Users\16068\source\repos\adapter\Debug\adapter.exe
+C:\Users\16068\source\repos\adapter\Debug\adapter.pdb
