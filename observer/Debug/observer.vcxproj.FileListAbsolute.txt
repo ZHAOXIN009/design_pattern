@@ -1,0 +1,2 @@
+C:\Users\16068\source\repos\observer\Debug\observer.exe
+C:\Users\16068\source\repos\observer\Debug\observer.pdb
